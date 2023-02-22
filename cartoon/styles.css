@@ -1,3 +1,7 @@
 h1 {
-    color: pink
+    color: pink;
+}
+
+canvas {
+    outline: black 3px solid;
 }
