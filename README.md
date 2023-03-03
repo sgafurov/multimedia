@@ -13,10 +13,12 @@
       </tr>
     </table>
 
+<br />
+
 ## Labs
 <table style="width: 10%" id="labs_table">
       <tr>
-        <th>Lab 1</th>
+        <th>JSON Fruit Lab</th>
       </tr>
       <tr>
         <th>Lab 2</th>
