@@ -1,5 +1,9 @@
 # multimedia
 
+## Live Site: https://sgafurov.github.io/multimedia/
+
+<br />
+
 ## Assignments
 <table style="width: 10%" id="assignments_table">
       <tr>
@@ -18,7 +22,7 @@
 ## Labs
 <table style="width: 10%" id="labs_table">
       <tr>
-        <th>JSON Fruit Lab</th>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/json_fruit_lab">JSON Fruit Lab</a></th>
       </tr>
       <tr>
         <th>Lab 2</th>
