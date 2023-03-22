@@ -5,7 +5,7 @@
 <br />
 
 ## Projects
-<table style="width: 10%" id="assignments_table">
+<table style="width: 10%" id="projects_table">
       <tr>
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/cartoon">Cartoon</a></th>
       </tr>
@@ -20,14 +20,14 @@
 <br />
 
 ## HW
-<table style="width: 10%" id="labs_table">
+<table style="width: 10%" id="hw_table">
       <tr>
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/json_fruit_lab">JSON Fruit Lab</a></th>
       </tr>
       <tr>
-        <th>Lab 2</th>
+        <th>2</th>
       </tr>
       <tr>
-        <th>Lab 3</th>
+        <th>3</th>
       </tr>
     </table>
