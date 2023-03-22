@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <form>
+      <div>
+        <h1>
+          Weight on Other Planet = Weight on Earth x Multiple of Earth’s Gravity
+        </h1>
+        <!---->
+        <div class="input-section">
+          <label for="weight">Enter your weight on earth (lbs)</label>
+          <input id="weight" type="number" name="weight" required />
+          <button type="submit" class="btn" onclick="storeWeight()">
+            Submit
+          </button>
+        </div>
+        <!---->
+        <div class="grid">
+          <img
+            class="planet"
+            id="sun"
+            src="sun.png"
+            role="button"
+            onclick="clickSun()"
+          />
+          <img
+            class="planet"
+            id="mercury"
+            src="mercury.png"
+            role="button"
+            onclick="clickMercury()"
+          />
+          <img class="planet" id="venus" src="venus.png" role="button" />
+          <img class="planet" id="mars" src="mars.png" role="button" />
+          <img class="planet" id="jupiter" src="jupiter.png" role="button" />
+          <img class="planet" id="saturn" src="saturn.png" role="button" />
+          <img class="planet" id="uranus" src="uranus.png" role="button" />
+          <img class="planet" id="neptune" src="neptune.png" role="button" />
+          <img class="planet" id="pluto" src="pluto.png" role="button" />
+
+          <!---->
+        </div>
+      </div>
+    </form>
+    <script src="script.js"></script>
+    <button><a href="../../index.html">Back to Portfolio</a></button>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+body {
+    background-image: url("./stars.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+    color: white;
+}
+
+h1 {
+    margin: 10 auto;
+    text-align: center;
+}
+
+.input-section {
+    margin: 10 auto;
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.planet {
+    height: 200px;
+    width: 200px;
+    transform: scale(1);
+    transition: transform .5s;
+    display: block;
+    padding: 20px;
+    justify-content: center;
+}
+
+.planet:hover {
+    transform: scale(1.2);
+}
+
+#saturn {
+    height: 200px;
+    width: 350px;
+}
