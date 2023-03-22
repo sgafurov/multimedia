@@ -18,6 +18,11 @@ h1 {
     text-align: center;
 }
 
+.clear-button {
+    margin: 10 auto;
+    text-align: center;
+}
+
 .grid {
     display: flex;
     flex-direction: row;

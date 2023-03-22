@@ -4,13 +4,17 @@ function storeWeight() {
   alert(`Your weight ${weight} has been stored in local storage.`);
 }
 
+function clearLocalStorage() {
+  localStorage.clear();
+}
+
 function clickSun() {
   alert("Your weight on the sun is " + 27.01 * localStorage.getItem("weight"));
   // Multiple of Earth’s Gravity = 27.01
 }
 
 function clickMercury() {
-    alert(0.38 * localStorage.getItem("weight"));
+  alert(0.38 * localStorage.getItem("weight"));
   //0.38
 }
 
