@@ -14,41 +14,41 @@ function clickSun() {
 }
 
 function clickMercury() {
-  alert(0.38 * localStorage.getItem("weight"));
+  alert("Your weight on mercury is " + 0.38 * localStorage.getItem("weight"));
   //0.38
 }
 
 function clickVenus() {
-  alert("HI");
+  alert("Your weight on venus is " + 0.91 * localStorage.getItem("weight"));
   //0.91
 }
 
 function clickMars() {
-  alert("HI");
+  alert("Your weight on mars is " + 0.38 * localStorage.getItem("weight"));
   //0.38
 }
 
 function clickJupiter() {
-  alert("HI");
+  alert("Your weight on jupiter is " + 2.34 * localStorage.getItem("weight"));
   //2.34
 }
 
 function clickSaturn() {
-  alert("HI");
+  alert("Your weight on saturn is " + 1.06 * localStorage.getItem("weight"));
   //1.06
 }
 
 function clickUranus() {
-  alert("HI");
+  alert("Your weight on uranus is " + 0.92 * localStorage.getItem("weight"));
   //0.92
 }
 
 function clickNeptune() {
-  alert("HI");
+  alert("Your weight on neptune is " + 1.19 * localStorage.getItem("weight"));
   //1.19
 }
 
 function clickPluto() {
-  alert("HI");
+  alert("Your weight on pluto is " + 0.06 * localStorage.getItem("weight"));
   //0.06
 }
