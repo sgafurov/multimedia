@@ -4,25 +4,25 @@
 
 <br />
 
-## Assignments
+## Projects
 <table style="width: 10%" id="assignments_table">
       <tr>
-        <th><a href="https://github.com/sgafurov/multimedia/tree/main/cartoon">Cartoon</a></th>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/cartoon">Cartoon</a></th>
       </tr>
       <tr>
-        <th>HW 2</th>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/animation">Animation</a></th>
       </tr>
       <tr>
-        <th>HW 3</th>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/form">Form</a></th>
       </tr>
     </table>
 
 <br />
 
-## Labs
+## HW
 <table style="width: 10%" id="labs_table">
       <tr>
-        <th><a href="https://github.com/sgafurov/multimedia/tree/main/json_fruit_lab">JSON Fruit Lab</a></th>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/json_fruit_lab">JSON Fruit Lab</a></th>
       </tr>
       <tr>
         <th>Lab 2</th>
