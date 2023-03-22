@@ -20,6 +20,7 @@ h1 {
 
 .grid {
     display: flex;
+    flex-direction: row;
     width: 90%;
     flex-wrap: wrap;
     align-items: center;
@@ -27,8 +28,9 @@ h1 {
 }
 
 .planet {
-    height: 200px;
-    width: 200px;
+    align-items: center;
+    height: 150px;
+    width: 150px;
     transform: scale(1);
     transition: transform .5s;
     display: block;
@@ -38,6 +40,21 @@ h1 {
 
 .planet:hover {
     transform: scale(1.2);
+}
+
+#sun {
+    height: 170px;
+    width: 170px;
+}
+
+#mercury {
+    height: 170px;
+    width: 170px;
+}
+
+#venus {
+    height: 200px;
+    width: 200px;
 }
 
 #saturn {
