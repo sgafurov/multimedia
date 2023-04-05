@@ -15,6 +15,9 @@
       <tr>
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/form">Form</a></th>
       </tr>
+      <tr>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/data">Data Visualization</a></th>
+      </tr>
     </table>
 
 <br />
@@ -28,6 +31,6 @@
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/audio_lab">Audio Lab</a></th>
       </tr>
       <tr>
-        <th>3</th>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/bootstrap">Bootstrap</a></th>
       </tr>
     </table>
