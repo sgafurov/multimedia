@@ -25,7 +25,7 @@
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/json_fruit_lab">JSON Fruit Lab</a></th>
       </tr>
       <tr>
-        <th>2</th>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/audio_lab">Audio Lab</a></th>
       </tr>
       <tr>
         <th>3</th>
