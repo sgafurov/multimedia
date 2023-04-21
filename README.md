@@ -18,6 +18,9 @@
       <tr>
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/data">Data Visualization</a></th>
       </tr>
+      <tr>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/video">Video Animation</a></th>
+      </tr>
     </table>
 
 <br />
