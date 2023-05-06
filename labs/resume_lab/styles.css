@@ -1,0 +1,90 @@
+/* Add a background color to the body */
+body {
+    background-color: #f4f4f4;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+section {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#about-me-section {
+    margin-top: 80px;
+}
+
+/* Style the navbar */
+.navbar {
+    padding: 10px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.nav-link {
+    font-weight: 600;
+    color: #666;
+}
+
+.nav-link:hover {
+    color: #333;
+}
+
+.navbar-brand {
+    font-weight: 800;
+    color: #333;
+}
+
+/* Style the education section */
+h1 {
+    color: #333;
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Style the skills section */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.skill {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 15px;
+}
+
+/* Style the experience section */
+.experience-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.experience-item {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    color: #333;
+    padding: 20px;
+    width: calc(50% - 10px);
+}
+
+.experience-item h2 {
+    color: #333;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
