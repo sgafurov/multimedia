@@ -21,6 +21,9 @@
       <tr>
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/video">Video Animation</a></th>
       </tr>
+      <tr>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/projects/wick_editor">Wick Editor</a></th>
+      </tr>
     </table>
 
 <br />
@@ -35,5 +38,8 @@
       </tr>
       <tr>
         <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/bootstrap">Bootstrap</a></th>
+      </tr>
+      <tr>
+        <th><a href="https://github.com/sgafurov/multimedia/tree/main/labs/resume_lab">Resume Lab</a></th>
       </tr>
     </table>
